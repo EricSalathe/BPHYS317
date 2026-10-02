@@ -1,2 +1,2 @@
 # BPHYS317
-# Code for Math Physics
+jupyter notebooks for Mathematical Physics
